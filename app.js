@@ -48,7 +48,7 @@
     'gallery.close': 'Close image', 'gallery.prev': 'Previous image', 'gallery.next': 'Next image'
   };
   const englishAlts = {
-    'studio.scene': 'The seaside island of SYNCHRONIZED PANIC!, with blue domes and the BOMBTEA logo in the lower right',
+    'studio.scene': 'The seaside island of SYNCHRONIZED PANIC!, with blue domes',
     'game.keyart': 'The stone characters of SYNCHRONIZED PANIC! gathered by the sea and blue domes',
     'game.chase': 'Stone Runners fleeing a red Tagger carrying a bat',
     'gallery.lobby': 'Stone characters gathered before the chaos — enlarge image',
